@@ -1,0 +1,6 @@
+discord.py
+python-dotenv
+google-genai
+PyPDF2
+langchain-text-splitters
+chromadb
